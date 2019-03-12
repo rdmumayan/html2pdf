@@ -61,8 +61,8 @@ class MyPdf extends \TCPDF
         // prepare the automatic footer
         $this->SetMyFooter();
 
-        $this->setCellPaddings(0, 0, 0, 0);
-        $this->setCellMargins(0, 0, 0, 0);
+        $this->setCellPadding(0, 0, 0, 0);
+        $this->setbMargins(0, 0, 0, 0);
     }
 
     /**

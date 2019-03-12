@@ -1,5 +1,5 @@
 {
-    "name": "spipu/html2pdf",
+    "name": "rdmumayan/html2pdf",
     "type": "library",
     "description": "Html2Pdf is a HTML to PDF converter written in PHP5 (it uses TCPDF). OFFICIAL PACKAGE",
     "keywords": ["html", "pdf", "html2pdf"],
@@ -7,8 +7,8 @@
     "license": "OSL-3.0",
     "authors": [
         {
-            "name": "Spipu",
-            "homepage": "https://github.com/spipu",
+            "name": "rdmumayan/html2pdf",
+            "homepage": "https://github.com/rdmumayan",
             "role": "Developer"
         }
     ],
